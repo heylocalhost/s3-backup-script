@@ -1,0 +1,8 @@
+# Ignore .env file containing sensitive credentials
+.env
+
+# Ignore config.json if it contains sensitive data
+config/config.json
+
+# Ignore logs
+logs/backup.log
