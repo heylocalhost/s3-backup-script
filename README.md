@@ -43,7 +43,7 @@ backup-script/
 
 Before running the script, ensure you have the following:
 
-- **Python 3.x**: Installed on your system.
+- **Python 3**: Installed on your system.
 - **AWS Account**: With access to an S3 bucket.
 - **boto3 Library**: AWS SDK for Python.
   
