@@ -1,0 +1,9 @@
+{
+    "source_directories": [
+        "/path/to/development/folder1",
+        "/path/to/development/folder2"
+    ],
+    "backup_destination": "/path/to/local/backup/location",  // Optional
+    "s3_bucket_name": "your-s3-bucket-name",
+    "s3_backup_folder": "your/s3/folder/path"
+}
