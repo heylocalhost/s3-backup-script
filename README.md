@@ -1,5 +1,14 @@
 # Automated Backup Script
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![AWS S3](https://img.shields.io/badge/AWS-S3-yellowgreen)
+![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
+![PRs](https://img.shields.io/badge/PRs-welcome-blueviolet)
+![GitHub contributors](https://img.shields.io/github/contributors/yourusername/backup-script)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/backup-script)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/backup-script)
+
 ## Overview
 
 This project is a Python-based automated backup script designed to regularly back up important development files or directories to both a local backup location and an Amazon S3 bucket. The script is scheduled to run daily at 11:45 PM IST via a cron job, ensuring that your important files are securely backed up on a consistent basis.
